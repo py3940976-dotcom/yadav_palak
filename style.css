@@ -1,0 +1,63 @@
+body{
+                font-family:Arial,sans-serif;
+                font-size: 18px;
+                background-color: aliceblue;
+            }
+ h1{
+    text-align: center;
+    color: rgb(236, 235, 238);
+
+ }
+ table{
+    width: 70%;
+    margin: auto;
+    background-color: rgb(220, 220, 208));
+ }
+  caption{
+    font-size: 28px;
+    color: rgb(223, 216, 212);
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+   th{
+    background-color: rgb(255,69,0,0.8);
+    color: white;
+
+   }
+   td{
+    text-align: center;
+    background-color: rgb(255,255,255,0.8);
+   }
+   th,td{
+    padding: 10px;
+   }
+   body{
+    border: 8px double rgb(218, 223, 224);
+    border-radius: 15px;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px grey;
+   }
+   body{
+    background-image: url(WhatsApp\ Image\ 2026-06-14\ at\ 2.36.29\ PM.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+   }
+   .dish{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+   }
+   .dish img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+   }
+   div{
+    background-color: rgb(255,255,255,0.5);
+   }
